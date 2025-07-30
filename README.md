@@ -23,3 +23,12 @@ The notebook includes a visual representation of MIT's original logo, which symb
    
    cd PCDE-Activity-9.1
 
+
+## Project Links
+
+- [PCDE-Activity 9.1 Repository](https://github.com/<amanid/PCDE-Activity-9.1)
+- [PCDE-Activity 9.1 GitHub Pages Site](https://amanid.github.io/PCDE-Activity-9.1/)
+
+---
+
+This portfolio is part of the requirements for Activity 9.4: Creating a Portfolio Using GitHub Pages.

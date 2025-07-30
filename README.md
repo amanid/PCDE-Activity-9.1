@@ -26,7 +26,7 @@ The notebook includes a visual representation of MIT's original logo, which symb
 
 ## Project Links
 
-- [PCDE-Activity 9.1 Repository](https://github.com/<amanid/PCDE-Activity-9.1)
+- [PCDE-Activity 9.1 Repository](https://github.com/amanid/PCDE-Activity-9.1)
 - [PCDE-Activity 9.1 GitHub Pages Site](https://amanid.github.io/PCDE-Activity-9.1/)
 
 ---
